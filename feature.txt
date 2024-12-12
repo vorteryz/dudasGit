@@ -3,3 +3,6 @@ Este es un archivo creado en la rama que estamos haciendo checkout
 
 
 Este es un cambio realizado sobre la OTRA_RAMA
+
+
+Edición después de haber hecho git oush --set-upstream origin feature/...etc
